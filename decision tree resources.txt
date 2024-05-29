@@ -1,0 +1,11 @@
+1. Decision Tree in Machine Learning
+https://towardsdatascience.com/decision-tree-in-machine-learning-e380942a4c96
+
+2. Visualize a Decision Tree
+https://mljar.com/blog/visualize-decision-tree/
+
+3. What is Decision Tree
+https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/
+
+4. decision-tree-algorithm-working-its-parameter-advantage-disadvantage-code-implementation
+https://medium.com/@kishanvir0099/decision-tree-algorithm-working-its-parameter-advantage-disadvantage-code-implementation-etc-ddb7c9ef86a3

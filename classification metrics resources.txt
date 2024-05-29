@@ -1,0 +1,24 @@
+1. what is a confusion matrix:
+   https://medium.com/analytics-vidhya/what-is-a-confusion-matrix-d1c0f8feda5
+
+2. Confusion matrix in machine learning
+   https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
+
+3. Understanding classification report 
+   https://iamirmasoud.com/2022/06/19/understanding-micro-macro-and-weighted-averages-for-scikit-learn-metrics-in-multi-class-classification-with-example/
+
+4. sensitivity and specificity
+   https://towardsdatascience.com/evaluating-categorical-models-ii-sensitivity-and-specificity-e181e573cff8
+
+5. ROC Curve
+   https://www.youtube.com/watch?v=gdW6hj9IXaA
+
+6. controling threshold value in logostic regression
+   https://stackoverflow.com/questions/28716241/controlling-the-threshold-in-logistic-regression-in-scikit-learn
+
+7. AUC-ROC in ML
+   https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/
+
+8. what is tpr and fpr
+   https://www.iguazio.com/glossary/true-positive-rate/
+
